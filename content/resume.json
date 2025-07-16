@@ -1,0 +1,57 @@
+{
+  "name": "Krishna Gopal Rathi",
+  "contact": {
+    "phone": "+91 94149 21525",
+    "email": "your.email@gmail.com",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourprofile",
+    "twitter": "https://twitter.com/yourprofile"
+  },
+  "summary": "Skilled in building end-to-end AI systems - from data preprocessing to deployment - across NLP, time series, vision, and graph problems, with expertise in LLMs, vector search, and full-stack integration.",
+  "education": [
+    {
+      "institution": "LNMIIT",
+      "degree": "B.Tech in CSE",
+      "location": "Jaipur, India",
+      "years": "2023 - 2027",
+      "cgpa": "7.30/10.00 (end of 4th semester)"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Afterink Studio",
+      "role": "Founding Member",
+      "location": "Jaipur, India",
+      "duration": "May 2024 - Recent",
+      "details": [
+        "Developing an in-house platform for AfterInk Studio to centralize communication, task tracking, and collaboration between clients and freelancers.",
+        "Led coordination between clients and freelancers, fostering long-term partnerships and timely execution.",
+        "Led content strategy for client brands, improving reach and engagement through targeted posts."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Student Performance Prediction Using Machine Learning on UCI Dataset",
+      "year": "2025",
+      "tech": ["Python", "Neo4j", "Transformers", "RASA", "spaCy"],
+      "description": "Analyzed academic and demographic data from 649 students using the UCI Student-Mat dataset to uncover performance patterns. Applied EDA, K-Means clustering and multiple classifiers (Decision Tree, Naive Bayes, SVM), with Decision Tree achieving 77% precision. Data preprocessed with encoding, scaling, and visualization techniques to enable actionable insights for the prediction of educational outcomes."
+    },
+    {
+      "title": "WALRATE: AI-Powered Sustainable Shopping Assistant",
+      "year": "2025",
+      "tech": ["React", "TypeScript", "Next.js", "TailwindCSS", "Supabase", "TensorFlow.js", "Chrome Extension API", "OpenRouter (Groq)"],
+      "description": "Built a sustainability-focused product scanner and browser extension that analyzes real-world or online products and assigns a WALRATE score (0–100) based on eco factors like carbon footprint, material type, packaging impact, and disposal methods. Designed to empower users to make greener choices while shopping at Walmart or other platforms. [Hackathon Project]"
+    },
+    {
+      "title": "AI Academic Companion - SARASWAT",
+      "year": "2025",
+      "tech": ["MERN", "Gemini", "LangChain", "Pinecone", "JWT Auth", "AWS S3"],
+      "description": "A personalized AI-powered tutor and course organizer designed for students. The tool intelligently learns from course materials (PDFs, PPTs, notes, etc.) uploaded by users, automatically structures academic content, and acts as a 24/7 assistant to explain concepts, answer questions, and aid in revision. It adapts to any course or semester and helps manage files, deadlines, and topics -> functioning like a smart tutor-friend who knows exactly what you’re studying."
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "GO", "C", "C++", "JavaScript", "SQL", "Java"],
+    "tools": ["AWS (EC2, Lambda, S3, DynamoDB, SQS, Athena)", "GCP (Vertex AI, GCS)", "MERN", "Spring Boot", "Apache Kafka", "Spark", "Presto", "Hive", "Elasticsearch", "LangChain", "OpenAI/Gemini APIs", "Chroma DB", "Redis", "PostgreSQL", "Selenium", "Cypress", "PyTest", "Postman", "Docker", "Kubernetes", "Terraform", "CI/CD (GitHub Actions, Jenkins)"]
+  }
+}
